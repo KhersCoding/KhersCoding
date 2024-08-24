@@ -84,10 +84,9 @@ I'm an indie front-end developer & content creator building my version of the di
 ## <img src = "https://media1.giphy.com/media/bmQBu3aSF0DxadphkG/200w.gif?cid=6c09b952le46lfbml2itn49bayg2s8w0gvo8mi607x5telrx&ep=v1_gifs_search&rid=200w.gif&ct=g" width = 28px> Statistics
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KhersCoding&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhersCoding&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhersCoding&show_icons=true&theme=dark)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=KhersCoding&theme=gruvbox&border_radius=4.5) -->
-</center>
 #
 <details>
  <summary><h3>👨🏻‍💻 Khers's Coding Journey</h3></summary>

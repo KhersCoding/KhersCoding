@@ -7,9 +7,10 @@ I'm an indie front-end developer & content creator building my version of the di
 <br/>
 <br/>
 
-   
-<center>[![Discord](https://dcbadge.limes.pink/api/shield/852662740475707492)](https://discord.com/users/852662740475707492)
-<center>[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kherscoding//) </p>
+<div align="center">
+   [![Discord](https://dcbadge.limes.pink/api/shield/852662740475707492)](https://discord.com/users/852662740475707492)
+   [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kherscoding//)
+</div>
 
    <p align="center">
       <a href="https://www.youtube.com/@KhersCoding?sub_confirmation=1">

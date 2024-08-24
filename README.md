@@ -6,12 +6,9 @@ I'm an indie front-end developer & content creator building my version of the di
 <br/>All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I'm publishing my content to my YouTube channel.
 <br/>
 <br/>
-
-<div align="center">
+<center>
    [![Discord](https://dcbadge.limes.pink/api/shield/852662740475707492)](https://discord.com/users/852662740475707492)
    [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kherscoding//)
-</div>
-
    <p align="center">
       <a href="https://www.youtube.com/@KhersCoding?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCdaGttOx0HfK2QoWJbFAQWw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -88,7 +85,7 @@ I'm an indie front-end developer & content creator building my version of the di
 [![GitHub Streak](https://streak-stats.demolab.com?user=KhersCoding&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=KhersCoding&theme=gruvbox&border_radius=4.5) -->
-
+</center>
 #
 <details>
  <summary><h3>👨🏻‍💻 Khers's Coding Journey</h3></summary>

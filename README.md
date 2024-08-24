@@ -1,4 +1,15 @@
-# 🐻 Ali Nobakht (KhersCoding)
+<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTV4YjBrdWQ0d3lzY2RrNDB3YmlzcTNlZ21jcHpoeHgwN2hkcWwycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9tnwJZO1hrPI8IpNOI/giphy.gif" width='135'/>
+
+
+   [![Discord](https://dcbadge.limes.pink/api/shield/852662740475707492)](https://discord.com/users/852662740475707492)
+   [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kherscoding//)
+   
+   I'm Ali, a 21 years old front-end developer residing in Tehran, Iran.
+  
+ 
+## 🐻 About Me (KhersCoding)
 
 **`Tech Wizard (Developer/Creator)`**
 
@@ -6,11 +17,9 @@ I'm an indie front-end developer & content creator building my version of the di
 <br/>All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I'm publishing my content to my YouTube channel.
 <br/>
 <br/>
-<center>
-   
-   [![Discord](https://dcbadge.limes.pink/api/shield/852662740475707492)](https://discord.com/users/852662740475707492)
-   [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kherscoding//)
-   
+
+
+
    <p align="center">
       <a href="https://www.youtube.com/@KhersCoding?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCdaGttOx0HfK2QoWJbFAQWw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -22,6 +31,7 @@ I'm an indie front-end developer & content creator building my version of the di
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KhersCoding?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 <br/>
+
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> Skills
 
@@ -64,7 +74,7 @@ I'm an indie front-end developer & content creator building my version of the di
 </div>
 
 
-#
+
 
 <!-- ### 📺 Latest YouTube Videos  -->
 
@@ -79,7 +89,7 @@ I'm an indie front-end developer & content creator building my version of the di
 
 <!-- [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@KhersCoding?sub_confirmation=1)  -->
 
-#
+
 
 ## <img src = "https://media1.giphy.com/media/bmQBu3aSF0DxadphkG/200w.gif?cid=6c09b952le46lfbml2itn49bayg2s8w0gvo8mi607x5telrx&ep=v1_gifs_search&rid=200w.gif&ct=g" width = 28px> Statistics
 <div align="center">
@@ -89,7 +99,7 @@ I'm an indie front-end developer & content creator building my version of the di
 
 #
 <details>
- <summary><h3>👨🏻‍💻 Khers's Coding Journey</h3></summary>
+ <summary><h3>👨🏻‍💻 Khers's Journey</h3></summary>
    <p align="left">
 Hi, I'm Ali, a 21-year-old developer who began experimenting with code and development at the age of 15.<br/>What started as a curiosity soon became a passion, and over the years, I've immersed myself in the world of programming. <br/>I've gained expertise in front-end technologies like HTML5, CSS3, JavaScript, Bootstrap, and TypeScript, as well as modern frameworks like React.js and Node.js. These skills have allowed me to create dynamic, responsive web applications.<br/>
 In addition to my core programming skills, I've also explored other areas of development and design. I'm proficient in Python, C++, C#, which have strengthened my problem-solving abilities and versatility as a developer.<br/> My creative side shines through with my knowledge of Photoshop and Premiere Pro, tools that allow me to design and edit visual content. <br/>I'm also comfortable working in Linux and writing in Markdown, making me well-rounded in both development and content creation.

@@ -45,7 +45,7 @@ I'm an indie front-end developer & content creator building my version of the di
 <code><img src="https://img.shields.io/badge/React-%23239120.svg?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS"></code>
 <code><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=FFF" alt="TypeScript"></code>
 <code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs"></code>
-
+<code><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"></code>
 
 <br/>
 </div>
@@ -57,7 +57,6 @@ I'm an indie front-end developer & content creator building my version of the di
 
 <code><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"></code>
 <code><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"></code>
-<code><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"></code>
 <code><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"></code>
 <code><img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=CPLUSPLUS&logoColor=yellow" alt="C++"></code>
 

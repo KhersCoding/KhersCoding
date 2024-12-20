@@ -4,7 +4,7 @@
 
    [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kherscoding//)
    
-   I'm Ali, a 21 years old front-end developer residing in Tehran, Iran.
+   I'm Ali, a 21 year old front-end developer residing in Tehran, Iran.
   
  
 ## 🐻 About Me (KhersCoding)
